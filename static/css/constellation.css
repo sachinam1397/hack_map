@@ -5,7 +5,7 @@ body{
 }
 canvas{
 	display: block;
-	vertical-align: bottom;
+	vertical-align: center;
 }
 .particle{
 	/*position: absolute;
@@ -18,7 +18,7 @@ canvas{
 .large-header {
 	position: absolute;
 	width: 100%;
-	background: #333;
+	background: red;
 	background-size: cover;
 	background-position: center center;
 	z-index:-1;
